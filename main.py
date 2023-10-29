@@ -55,7 +55,7 @@ with col1:
     )
 
     with tab2:
-        st.header("Experience")
+        st.header("RECZEE")
         st.markdown(
     """
     - Reczee - My responsibility was to overhaul the entire platform and give the website a more upscale appearance. 
