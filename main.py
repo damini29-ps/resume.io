@@ -60,6 +60,7 @@ with col1:
     """
     - Reczee - My responsibility was to overhaul the entire platform and give the website a more upscale appearance. 
     I redesigned the website structure including page format, buttons and color palettes to improve user experience. 
+    - Apr 2022 to Oct 2023
     - Website : Reczee - www.reczee.com
     """
         
