@@ -96,7 +96,7 @@ with col1:
         
     with tab4:
         st.header("Resume Download")
-        st.image("DAMINI SHARMA.jpg")
+        st.image("Resume.jpg")
         
         def generate_pdf_content():
     # Replace this function with your code that generates the PDF content.
