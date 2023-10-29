@@ -122,7 +122,7 @@ with col1:
         
 
         # Assuming you have a PDF file named "example.pdf"
-        file_path = "DAMINI(UIUX-Resume).pdf"
+        file_path = "Damini(UIUX-Resume).pdf"
 
 # Read the PDF file and get its content as bytes
         with open(file_path, "rb") as file:
