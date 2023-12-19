@@ -95,7 +95,7 @@ with col1:
         
     with tab4:
         st.header("Resume Download")
-        st.image("Resume.jpg")
+        st.image("Resume(2).jpg")
         
         def generate_pdf_content():
     # Replace this function with your code that generates the PDF content.
@@ -122,7 +122,7 @@ with col1:
         
 
         # Assuming you have a PDF file named "example.pdf"
-        file_path = "Damini(UIUX-Resume).pdf"
+        file_path = "Damini Resume.pdf"
 
 # Read the PDF file and get its content as bytes
         with open(file_path, "rb") as file:
